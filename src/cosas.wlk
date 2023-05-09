@@ -26,6 +26,11 @@ object paqueteDeFideos {
 	method esElectrodomestico() { return false }	
 }
 
+
+
+
+
+
 object plancha {
 	method precio() { return 12000 }
 	method esComida() { return false }
